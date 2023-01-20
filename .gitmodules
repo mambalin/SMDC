@@ -1,0 +1,9 @@
+[submodule "AMDC-Hardware"]
+	path = AMDC-Hardware
+	url = https://github.com/Severson-Group/AMDC-Hardware.git
+[submodule "AMDC-Firmware"]
+	path = AMDC-Firmware
+	url = https://github.com/Severson-Group/AMDC-Firmware.git
+[submodule "docs.amdc.dev"]
+	path = docs.amdc.dev
+	url = https://github.com/Severson-Group/docs.amdc.dev.git
